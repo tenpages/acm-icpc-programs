@@ -1,4 +1,7 @@
 ## acm-icpc programs
 ### Mid-Atlantic
 #### 2013
-  * a - Text Roll - string processing
+ | # | Title | Catagory |
+ |:-:|:-----:|:--------:|
+ | a | [Text Roll](./Mid-Atlantic/2013/a) | string processing| 
+ | d | [Count Your Cousins](./Mid-Atlantic/2013/d) | data structure | 
