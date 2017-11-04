@@ -17,3 +17,8 @@
  | # | Title | Catagory | Status (default **AC**) |
  |:-:|:-----:|:--------:|:------:|
  | c | [Tire, Tire Again](./Mid-Atlantic/2008/c)| string processing, KMP, data structrue| 
+
+#### 2007
+ | # | Title | Catagory | Status (default **AC**) |
+ |:-:|:-----:|:--------:|:------:|
+ | h | [The Turn of the Shrew](./Mid-Atlantic/2007/h)| bit operation| 
