@@ -12,3 +12,8 @@
  | # | Title | Catagory | Status (default **AC**) |
  |:-:|:-----:|:--------:|:------:|
  | h | [Word Ladder](./Mid-Atlantic/2009/h) | string processing, APSP | 
+
+#### 2008
+ | # | Title | Catagory | Status (default **AC**) |
+ |:-:|:-----:|:--------:|:------:|
+ | c | [Tire, Tire Again](./Mid-Atlantic/2008/c)| string processing, KMP, data structrue| 
